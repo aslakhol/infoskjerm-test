@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aslakhol.github.io/infoskjerm-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/aslakhol.github.io/infoskjerm-test/static/js/main.b17d0886.chunk.js",
+    "main.js.map": "/aslakhol.github.io/infoskjerm-test/static/js/main.b17d0886.chunk.js.map",
+    "runtime-main.js": "/aslakhol.github.io/infoskjerm-test/static/js/runtime-main.c54e23df.js",
+    "runtime-main.js.map": "/aslakhol.github.io/infoskjerm-test/static/js/runtime-main.c54e23df.js.map",
+    "static/js/2.5c29b3f2.chunk.js": "/aslakhol.github.io/infoskjerm-test/static/js/2.5c29b3f2.chunk.js",
+    "static/js/2.5c29b3f2.chunk.js.map": "/aslakhol.github.io/infoskjerm-test/static/js/2.5c29b3f2.chunk.js.map",
+    "index.html": "/aslakhol.github.io/infoskjerm-test/index.html",
+    "precache-manifest.67382627f2a54f5eeec47e023e5bda29.js": "/aslakhol.github.io/infoskjerm-test/precache-manifest.67382627f2a54f5eeec47e023e5bda29.js",
+    "service-worker.js": "/aslakhol.github.io/infoskjerm-test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/aslakhol.github.io/infoskjerm-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5c29b3f2.chunk.js.LICENSE.txt": "/aslakhol.github.io/infoskjerm-test/static/js/2.5c29b3f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c54e23df.js",
+    "static/js/2.5c29b3f2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b17d0886.chunk.js"
+  ]
+}
