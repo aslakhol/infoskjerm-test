@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3102f83fc7ef63124200cd68553a10ef",
+    "revision": "a9fc0b64271ebf0c2d83473462e7ad33",
     "url": "/aslakhol.github.io/infoskjerm-test/index.html"
   },
   {
-    "revision": "6cbacfa7e784aa7cdafa",
+    "revision": "29ff8a29fd46b93cd3bc",
     "url": "/aslakhol.github.io/infoskjerm-test/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aslakhol.github.io/infoskjerm-test/static/js/2.5c29b3f2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6cbacfa7e784aa7cdafa",
-    "url": "/aslakhol.github.io/infoskjerm-test/static/js/main.bc84898d.chunk.js"
+    "revision": "29ff8a29fd46b93cd3bc",
+    "url": "/aslakhol.github.io/infoskjerm-test/static/js/main.1e6fdebc.chunk.js"
   },
   {
     "revision": "a8ed19f961816fb287c2",
