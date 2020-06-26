@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aslakhol.github.io/infoskjerm-test/precache-manifest.67382627f2a54f5eeec47e023e5bda29.js"
+  "/aslakhol.github.io/infoskjerm-test/precache-manifest.1dff87bac4c293d252a1d2a48cf78088.js"
 );
 
 self.addEventListener('message', (event) => {
